@@ -1,0 +1,19 @@
+.user-container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .user-container h1 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .user-container p {
+    font-size: 18px;
+    margin: 4px 0;
+  }
+
+  
